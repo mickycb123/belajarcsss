@@ -1,0 +1,75 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(115, 228, 228);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(115, 228, 228);
+}
+
+#hello{
+    color: blueviolet;
+    background-color: chocolate;
+}
+
+.warnasatu{
+    color: brown;
+    background-color: cornflowerblue;
+
+
+}
+
+.warnadua{
+     color: chartreuse;
+     background-color: black;
+
+
+}
+
+
+.warnatiga{
+
+      color: chocolate;
+      background-color: crimson;
+
+
+}
+
+#kotak-satu{
+    height: 100px;
+    width: 1000px;
+background-color: rgb(236, 91, 212);
+
+}
+
+#kotak-dua{
+    height: 100px;
+    width: 1000px;
+    background-color: aqua;
+}
+
+
+#kotak-dua{
+    height: 100px;
+    width: 10000px;
+    background-color: rgb(115, 255, 0);
+}
+
+
+
+#kotak-tiga{
+    height: 100px;
+    width: 100000px;
+    background-color: rgb(255, 38, 0);
+}
+
+
+
+
+
+
+
+
+
+
