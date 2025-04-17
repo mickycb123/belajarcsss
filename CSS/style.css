@@ -64,6 +64,50 @@ background-color: rgb(236, 91, 212);
     background-color: rgb(255, 38, 0);
 }
 
+#bikibg{
+    width: 500px;
+    height: 200px;
+    background-color: rgb(238, 37, 228);
+    color:rgb(255, 255, 255);
+    background-image: url("../CSS/img/harimau.webp");
+    background-size: 100%;
+    border-radius: 10px;
+
+
+}   
+
+#bikibg h2{
+    text-align: center;
+    padding-top:80px;
+}
+
+#bikinpattern{
+    width: 500px;
+    height: 200px;
+    background-color: rgb(238, 37, 228);
+    color:rgb(255, 255, 255);
+    background-image: url("..//CSS/img/pattern100.png");
+    background-size: 100px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+
+
+
+}
+
+#bikinpattern h2{
+    
+    text-align: center;
+    padding-top:80px;
+
+
+
+
+}
+
+
+
+
 
 
 
