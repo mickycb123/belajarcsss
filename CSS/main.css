@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 
@@ -33,9 +34,48 @@
 
 #navigasi {
     width: 100%;
-    height: 50px;
     background-color: blue;
 }
+
+
+
+#navigasi ul li {
+    padding: 20px;
+    display: inline-block;
+    color: aliceblue;
+}
+
+
+#artikel{
+    width: 500px;
+    padding: 20px;
+    background-color: aliceblue;
+    float:left;
+}
+
+
+#sidebar{
+    width: 300px;
+    padding: 20px;
+    background-color: aliceblue;
+    float:right;
+}
+
+.clear {
+    clear:both;
+   
+}
+
+#footer {
+    background-color: rgb(143, 140, 136);
+    padding: 20px;
+    text-align:center;
+    color:aliceblue;
+
+
+}
+
+
 
 
 
